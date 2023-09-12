@@ -1,0 +1,12 @@
+<form name="insert" method="post" action="">
+	<input type="text" name="reg_no" placeholder="Numéro d'inscription" required>
+	<br>
+	<input type="text" name="first_name" placeholder="Prénom" required>
+	<br>
+    <input type="text" name="last_name" placeholder="Nom de famille" required>
+    <br>
+	<input type="text" name="age" placeholder="Âge" required>
+	<br>
+
+	<input type="submit" name="insert_button" value="Insert Record" required>
+</form>

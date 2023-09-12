@@ -1,0 +1,10 @@
+<nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container-fluid">
+        <img class="pull-left" src="images/12.png" width="50" height="50" alt="logo">
+        <a href="index.php" class="navbar-brand">MonStage</a>
+        <div class="pull-right">	
+           
+			<a href="admin/" class="btn btn-primary">Se connecter en tant entreprise</a>
+        </div>
+    </div>
+</nav>
